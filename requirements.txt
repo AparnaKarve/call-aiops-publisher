@@ -5,5 +5,5 @@ Flask==1.0.2
 ItsDangerous==1.0.0
 Jinja2==2.10
 pbr==5.1.0
-pipenv==2018.10.13
+pipenv==2022.1.8
 requests==2.20.0
